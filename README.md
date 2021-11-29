@@ -15,6 +15,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 - [Chinese Blog] 3W字长文带你轻松入门视觉transformer [[Link](https://zhuanlan.zhihu.com/p/308301901)]
 - [Chinese Blog] Vision Transformer 超详细解读 (原理分析+代码解读) [[Link](https://zhuanlan.zhihu.com/p/348593638)]
+- [Chinese Blog] 最新的计算机视觉注意力机制(Attention)综述！[Link](https://zhuanlan.zhihu.com/p/438524916)
 
 ### Survey
   - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]   - 2021.02.22
